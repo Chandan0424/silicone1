@@ -1,0 +1,9 @@
+body{
+    background-image: url("https://ak.picdn.net/shutterstock/videos/13683260/thumb/2.jpg");
+    background-size: cover;
+}
+#canvas2{
+    border:5px ridge white;
+    background-image: url("Background.jpg");
+    background-size: cover;
+}
